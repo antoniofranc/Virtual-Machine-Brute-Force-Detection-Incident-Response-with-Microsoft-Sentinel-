@@ -42,7 +42,7 @@ Analytics → Create → Scheduled query rule
 
 Analytics Rule Settings:
 - Enable the Rule
-- Use ChatGPT to set Mitre ATT&CK Framework Categories based on the query
+- Mapped the detection rule to relevant MITRE ATT&CK techniques
 - Run query every 4 hours
 - Lookup data for last 5 hours (can define in query)
 - Stop running query after alert is generated == Yes
